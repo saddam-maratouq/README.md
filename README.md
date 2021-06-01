@@ -7,10 +7,10 @@ Autotrnics engineering
 I'm so glad to be here 
 And I hope to reach my goals.
 
-| Syntax      | Description |
+| assigment      | links |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| lab01      | [lab01]   (https://saddam-maratouq.github.io/reading-notes/lab01)      |
+| read01 |[read01](https://saddam-maratouq.github.io/reading-notes/read01)        |
 
 
 
