@@ -18,7 +18,7 @@ And I hope to reach my goals.
 
 
 | assigment       | links  |
-| ----------- | ----------- |
+| ----------- | -----------: |
 |    README         | [link](https://saddam-maratouq.github.io/reading-notes/)            |
   class 01   |[class01]()            |
 | class02     |[class02]()       
