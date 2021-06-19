@@ -1,4 +1,6 @@
-# read note 1 
+  
+# welcome !!!  👽
+
 
 Hello , I'm saddam 
 I'm 24 years old 
@@ -13,11 +15,20 @@ And I hope to reach my goals.
 | read01 |[read01](https://saddam-maratouq.github.io/reading-notes/read01)        |
 
 
+***Here you can find all the topics I have
+read in each courses:***
+
+
 
 ## code 201 Reading note 
 
+![code](https://marketingweek.imgix.net/content/uploads/2017/05/12103909/Coding-body-image-.jpg?auto=compress,format&q=60&w=750&h=460)
 
-| assigment       | links  |
+♾️ ⚓ 
+
+
+
+| *assigment*       | *links*  |
 | ----------- | -----------: |
 |    README         | [link](https://saddam-maratouq.github.io/reading-notes/)            |
   class 01   |[class01]()            |
