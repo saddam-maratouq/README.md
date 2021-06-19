@@ -21,11 +21,11 @@ And I hope to reach my goals.
 | ----------- | ----------- |
 |    README         | [link](https://saddam-maratouq.github.io/reading-notes/)            |
   class 01   |[class01]()            |
-| class02     |[class02]()       |
-| class03  |  |[class03]()       |
-| class04  |  |[class04]()       |
-| class05  |  |[class05]()       |
-| class06  |  |[class06]()       |
+| class02     |[class02]()       
+| class03  |  |[class03]()       
+| class04  |  |[class04]()     
+| class05  |  |[class05]()       
+| class06  |  |[class06]()       
 | class07  |  |[class07]()
 | class08  |  |[class08 ]()
 | class09  |  |[class09]()
