@@ -96,6 +96,117 @@ Escape characters are used to include special characters in your pages such as <
 
 
 
+**HTML5 layouts:**
+
+The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
+
+the < header> element used to contain the site name and the main navigation.
+
+The < footer> element contains copyright information, along with links to the privacy policy and terms and conditions.
+
+
+
+The < article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+
+
+
+The < aside> element has two purposes, depending on whether it is inside an < article> element or not. When the < aside> elements used inside an < article> element, it should contain information that is related to the article. When the < aside> element is used outside of an < article> element, it acts as a container for content that is related to the  entire page.
+
+
+The < section> element groups related content together, and typically each section would have its own heading. it may contain several distinct < article> elements that have a common theme or purpose.
+
+
+
+the < div> element will remain an important way to group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated.
+
+Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
+
+
+
+**Process & Design:**
+
+**When you are creating a new website; three questions should be answered;**
+
+
+1- Who is the site For?
+2- Why people visit your page?
+3- What your visitors are trying to achieve?
+4- What information your visitors need?
+5- How often people with visit your site? 
+
+
+
+
+ 1- Site Maps :
+It allows you to plan the structure of a site. 
+
+
+2- WireFrames:
+
+It allows you to organize the information that will need to go on each page.
+
+
+**Getting your message across using Design:**
+
+
+Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
+
+You can differentiate between pieces of information using size, color, and style.
+
+You can use grouping and similarity to help simplify the information you present. 
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+**The ABC of programming:**
+
+**What is “script” and how do I create one ?**
+
+Script is a series of instructions that a computer can follow to achieve a goal.
+
+Each time the script runs, it might only use a subset of all the instructions.
+
+Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+
+To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+
+
+
+HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER?
+
+**HTML : content layer.
+CSS : presentation layer.
+JAVASCRIPT : behaviour layer.**
+
+
+
+***These three layers form the basis of a popular approach to building web pages called progressive enhancement.***
+
+
+**CREATING A BASIC JAVASCRIPT:**
+
+JavaScript is written in plain text, just like HTML and CSS.
+
+When you want to use JavaScript with a web page, you use the HTML < script> element to tell the browser it is coming across a script.
+
+It is best to keep JavaScript code in its own JavaScript file. but they have the . j s extension.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
