@@ -70,18 +70,18 @@ It allows you to control which box appears on top.
 **There are different position values:**
 
 * **static:** it is always positioned according to the normal flow of the page
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 * **relative:** it is positioned relative to its normal position.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
 * **fixed:** it is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 * **absolute:**  is taken out of the box of normal flow and no longer affects the position of other elements on the page. (They act like it is not there.) 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
   **float:** allows you to take an element in normal flow and place it as far to the left or right of the containing element as possible.
 
-  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+  
 
 
   **Clearing Floats :**
