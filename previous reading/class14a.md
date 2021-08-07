@@ -47,7 +47,7 @@ Keyframes hold what styles the element will have at certain times.***
 * **The animation-fill-mode** property identifies how an element should be styled either before, after, or before and after the animation is run.
 
 
-![ css animation ](https://stfalcon.com/uploads/images/5881e0b98e717.png)
+![css animation  ](https://miro.medium.com/max/900/1*_6MfwckxNfQTca9SiG8MdQ.png)
 
 
 [ the css animation Mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
